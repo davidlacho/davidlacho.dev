@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/davidlacho.dev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/davidlacho.dev/static/js/main.8c2c09aa.chunk.js",
+    "main.js.map": "/davidlacho.dev/static/js/main.8c2c09aa.chunk.js.map",
+    "runtime-main.js": "/davidlacho.dev/static/js/runtime-main.12979d93.js",
+    "runtime-main.js.map": "/davidlacho.dev/static/js/runtime-main.12979d93.js.map",
+    "static/js/2.2ae03a75.chunk.js": "/davidlacho.dev/static/js/2.2ae03a75.chunk.js",
+    "static/js/2.2ae03a75.chunk.js.map": "/davidlacho.dev/static/js/2.2ae03a75.chunk.js.map",
+    "index.html": "/davidlacho.dev/index.html",
+    "precache-manifest.f59c18634f397da6e529c17b8ce9f125.js": "/davidlacho.dev/precache-manifest.f59c18634f397da6e529c17b8ce9f125.js",
+    "service-worker.js": "/davidlacho.dev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/davidlacho.dev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ae03a75.chunk.js.LICENSE.txt": "/davidlacho.dev/static/js/2.2ae03a75.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/davidlacho.dev/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12979d93.js",
+    "static/js/2.2ae03a75.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8c2c09aa.chunk.js"
+  ]
+}
